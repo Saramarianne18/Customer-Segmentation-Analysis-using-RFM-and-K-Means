@@ -234,29 +234,15 @@ Another challenge was selecting the optimal number of clusters. The Elbow Method
 
 ---
 
-## How to Run
-
-1. Download the dataset from Kaggle
-2. Open the notebook in Jupyter Notebook
-3. Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-4. Run the notebook cells sequentially
-
----
-
 ## Project Structure
 
 ```text
 customer-segmentation-rfm-kmeans/
 │
-├── data/
-├── notebook/
 ├── visuals/
-├── README.md
+├── README.md/
+├── dataset/
+├── python file/
 ```
 
 ---
