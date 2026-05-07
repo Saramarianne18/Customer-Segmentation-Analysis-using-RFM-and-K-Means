@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Visuals/logo.png" width="700" alt="Customer Segmentation Analysis Logo">
+</p>
+
 # Customer Segmentation Analysis using RFM and K-Means
 
 ## Project Overview
